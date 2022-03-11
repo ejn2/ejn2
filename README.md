@@ -11,6 +11,8 @@
 ## Contatos
 #### E-mail: eduardop9011@gmail.com
 
+## Status
 #### Disponível para oportunidades: Sim. ✔️
+
 
 #### Ultima modificação em: 11/03/2022 📆
