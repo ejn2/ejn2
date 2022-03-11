@@ -1,3 +1,3 @@
-<p>Olá, meu nome é Eduardo. Programador de aplicações para web, venho estudando programação já faz muito tempo. Apesar de nunca ter atuado na área tenho conhecimentos em algumas das tecnologias mais conhecidas pelo Brasil</p>
+#### Olá, meu nome é Eduardo. Programador de aplicações para web, venho estudando programação já faz muito tempo. Apesar de nunca ter atuado na área tenho conhecimentos em algumas das tecnologias mais conhecidas pelo Brasil
 
-<li>E-mail: eduardop9011@gmail.com</li>
+#### E-mail: eduardop9011@gmail.com
